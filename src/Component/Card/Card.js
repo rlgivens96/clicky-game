@@ -1,8 +1,7 @@
 import React from "./node_modules/react";
 
 const Card = props => (
-	<div
-		className="cardStyle"
+	<div className="cardStyle"
 		onClick={() => props.setClicked(props.id)}>
 		<div className="imgContainer">
 			<img

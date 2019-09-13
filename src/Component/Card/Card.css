@@ -1,0 +1,28 @@
+.cardStyle > .imgContainer {
+    height: 60%;
+    overflow: hidden;
+    text-align: center;
+    background:rgb(219, 202, 104);
+  }
+
+.cardStyle > .imgContainer > img {
+    width: 60%;
+  }
+
+.cardStyle > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+  }
+  
+.cardStyle > .content > ul {
+    list-style-type: none;
+  }
+  
+.cardStyle > .content > ul > li {
+    margin-top: 18px;
+  }
+
+
+  
+
