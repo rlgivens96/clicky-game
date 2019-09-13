@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "./node_modules/react";
 
 const Nav = props => (
     <nav className="navbar navbar-light bg-info">

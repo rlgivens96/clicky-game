@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Rachel",
+      "image": "./images/rachelgreen.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Monica",
+      "image": "./images/monicageller.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Phoebe",
+      "image": "./images/phoebebuffay.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ross",
+      "image": "./images/rossgeller.png"
+    },
+    {
+      "id": 5,
+      "name": "Chandler",
+      "image": "./images/chandlerbing.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Joey",
+      "image": "./images/joeytribbiani.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Carol",
+      "image": "./images/carolwillick.png"
+    },
+    {
+      "id": 8,
+      "name": "Mike",
+      "image": "./images/mikehannigan.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Gunther",
+      "image": "./images/gunther.png"
+    },
+    {
+      "id": 10,
+      "name": "Susan",
+      "image": "./images/susanbunch.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Janice",
+      "image": "./images/janicelitman.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Paulo",
+      "image": "./images/paulo.jpg"
+    }
+  ]
